@@ -1,6 +1,9 @@
 # Audio
 ro.hardware.audio.primary=taro-marble
-
+#fingerprint
+persist.vendor.fingerprint.type=side
+persist.vendor.fingerprint.sensor_location=1080|920|210|local:4630946480857061762
+persist.vendor.fingerprint.sensor_modules=fpc,goodix
 # Display
 vendor.display.idle_time=0
 

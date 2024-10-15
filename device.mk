@@ -3,7 +3,7 @@
 #
 # SPDX-License-Identifier: Apache-2.0
 #
-
+-include vendor/lineage-priv/keys/keys.mk
 # NFC
 TARGET_NFC_SUPPORTED_SKUS := marble
 
