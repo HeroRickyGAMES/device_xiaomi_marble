@@ -22,7 +22,7 @@ echo 'Cloning Hardware Xiaomi Tree'
 
 echo 'Cloning Kernel Tree'
 	git clone --depth=1 https://github.com/pabloescobar-reborn/kernel_xiaomi_sm8450 -b lineage-22.0 kernel/xiaomi/sm8450
-	git clone --depth=1 https://github.com/pabloescobar-reborn/kernel_xiaomi_sm8450-modules.git-b lineage-22.0 kernel/xiaomi/sm8450-modules
+	git clone --depth=1 https://github.com/pabloescobar-reborn/kernel_xiaomi_sm8450-modules.git -b lineage-22.0 kernel/xiaomi/sm8450-modules
 	git clone --depth=1 https://github.com/pabloescobar-reborn/kernel_xiaomi_sm8450-devicetrees -b lineage-22.0 kernel/xiaomi/sm8450-devicetrees
 
 echo 'Cloning Vendor Tree'
