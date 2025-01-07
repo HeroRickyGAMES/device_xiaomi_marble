@@ -25,4 +25,4 @@ echo 'Cloning Vendor Tree'
 	git clone https://github.com/pabloescobar-reborn/vendor_xiaomi_marble -b fifteen vendor/xiaomi/marble
 
 echo 'Cloning Vendor Common Tree'
-	git clone https://github.com/pabloescobar-reborn/vendor_xiaomi_sm8450-common -b fifteen vendor/xiaomi/sm8450-common
+	git clone https://git.mainlining.org/cupid-development/proprietary_vendor_xiaomi_sm8450-common -b lineage-22.1 vendor/xiaomi/sm8450-common
