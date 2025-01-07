@@ -1,8 +1,4 @@
-echo 'Hello! we need to clone stuffs needed for your device, please wait tll process complete'
-
-echo 'Nuke Source stuffs'
-        rm -rf hardware/xiaomi
-        rm -rf hardware/qcom-caf/sm8450/display
+echo 'Olá! Estamos preparando os Sources do Poco F5!'
 
 echo 'Cloning Basic Call Recorder Tree'
 	git clone https://github.com/Chaitanyakm/vendor_bcr vendor/bcr
