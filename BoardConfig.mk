@@ -44,3 +44,8 @@ TARGET_CAMERA_PACKAGE_NAME := com.android.camera
 # Vibrator
 TARGET_QTI_VIBRATOR_EFFECT_LIB := libqtivibratoreffect.xiaomi
 TARGET_QTI_VIBRATOR_USE_EFFECT_STREAM := true
+
+PRODUCT_BUILD_PROP_OVERRIDES += \
+    RisingChipset="Snapdragon 7 Plus Gen 2" \
+    RisingMaintainer="HeroRickyGAMES"
+
