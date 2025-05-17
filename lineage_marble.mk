@@ -23,3 +23,6 @@ PRODUCT_MANUFACTURER := Xiaomi
 BUILD_FINGERPRINT := POCO/marble_global/marble:12/SKQ1.230401.001/OS2.0.4.0.VMRMIXM:user/release-keys
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
+
+# Maintainer username
+HORIZON_MAINTAINER := herorickygames
